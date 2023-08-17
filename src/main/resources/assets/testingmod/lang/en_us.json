@@ -1,0 +1,13 @@
+{
+  "item.testingmod.titanium": "Titanium",
+  "item.testingmod.aluminum": "Aluminum",
+  "block.testingmod.titanium_block": "Block Of Titanium",
+  "item.testingmod.bloodletters_lament": "Bloodletter's Lament",
+  "item.testingmod.dragon_slayer_spear": "Dragon Slayer Spear",
+
+  "effect.testingmod.bleed": "Bleed",
+  "effect.testingmod.stun": "Stun",
+
+  "itemgroup.metals": "Metals Group",
+  "itemgroup.mod_weapons": "Modded Weapons"
+}
